@@ -1,3 +1,9 @@
+mx-docs (20200817mx21+1) mx; urgency=medium
+
+  * new germain translation
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 28 Mar 2021 16:57:44 -0400
+
 mx-docs (20200817mx21) mx; urgency=medium
 
   * remove help and faq from /etc/skel
