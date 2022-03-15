@@ -1,3 +1,10 @@
+mx-docs (20220313mx21+nmu1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * updated pdfs, added Greek and Japanese
+
+ -- Dolphin Oracle <jb@mx>  Tue, 15 Mar 2022 11:11:16 -0400
+
 mx-docs (20220313mx21) mx; urgency=medium
 
   * update installer graphic in english version
