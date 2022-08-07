@@ -1,3 +1,21 @@
+mx-docs (20220313mx21+1) mx; urgency=medium
+
+  * updated pdfs, added Greek and Japanese
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 15 Mar 2022 11:11:16 -0400
+
+mx-docs (20220313mx21) mx; urgency=medium
+
+  * update installer graphic in english version
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 13 Mar 2022 11:24:33 -0400
+
+mx-docs (20210925mx21) mx; urgency=medium
+
+  * mx21 updates
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 28 Sep 2021 19:17:31 -0400
+
 mx-docs (20200817mx21+2) mx; urgency=medium
 
   * new german manual (revised)
