@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=System;
+Exec=mx-faq
+GenericName[en_US]=FAQ
+GenericName=FAQ
+Icon=help-browser.png
+MimeType=
+# The desktop entry name will be displayed within the menu.
+Name=FAQ
+# # The desktop entry comment will be shown within the menu.
+Comment=Frequently Asked Questions
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

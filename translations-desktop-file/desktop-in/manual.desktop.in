@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=System;
+Exec=mx-manual
+GenericName[en_US]=Manual
+GenericName=Manual
+Icon=help-browser.png
+MimeType=
+# The desktop entry name will be displayed within the menu.
+Name=Manual
+# # The desktop entry comment will be shown within the menu.
+Comment=Orientation and information
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

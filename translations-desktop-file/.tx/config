@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[antix-development.mx-docs-desktop]
+file_filter = po/mx-docs-desktop_<lang>.po
+source_file = mx-docs-desktop.pot
+source_lang = en
+type = po

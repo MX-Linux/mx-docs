@@ -1,0 +1,26 @@
+
+Assumptions:
+
+original *.desktop files are in top level of git folder
+name of parent folder above translations-desktop is the name of the project, at least for transifex purposes
+
+initial setup
+
+1.  place translations-desktop folder in top level of git repo. 
+2.  in the "destkop-in" folder, place stripped down versions of hte original desktop files
+    the only strings translated will be those in the new desktop-in/*.desktop.in files
+    
+3.  run "./update-po-mo.sh pot" to generate a pot file for uploading to transifex
+4.  run "./update-po-mo.sh po" to generate po files for uploading to transifex
+5.  upload pot file to transifex.  don't upload any po files for a few minutes to give transifex time to process the pot file
+6.  run "./get_original_strings.sh" to popular po files with existing strings from existing desktop files
+7.  update po files with translations to transifex.  uploadlist.txt will have list of changed lang files with harvested strings
+    to upload
+
+
+in future, ./get_translations will be used to update po files from transifex.
+after ./get_translations, run "make desktop" to generate new desktop files and then 
+copy those from the build folder to the usual place in the git repo.
+
+get_original_strings is a one-time deal.  after strings are uploaded to transifex it should
+not be used anymore.
