@@ -1,9 +1,13 @@
-mx-docs (20220313mx21+3+nmu1) UNRELEASED; urgency=medium
+mx-docs (20230519) mx; urgency=medium
 
+  [ Jerry ]
   * Non-maintainer upload.
   * replaced 6 machine trans with user revisions
 
- -- Jerry <jb@mx>  Sat, 13 May 2023 11:34:42 -0400
+  [ Dolphin Oracle ]
+  * builds for repo
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 19 May 2023 19:35:05 -0400
 
 mx-docs (20220313mx21+3) mx; urgency=medium
 
