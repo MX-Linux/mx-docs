@@ -1,3 +1,10 @@
+mx-docs (20230520+1+nmu1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * first draft of MX-23 Manual, S1 and S2 revised
+
+ -- Jerry <jb@mx>  Thu, 08 Jun 2023 15:14:20 -0400
+
 mx-docs (20230520+1) mx; urgency=medium
 
   * update icons in desktop files
