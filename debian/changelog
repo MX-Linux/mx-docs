@@ -1,9 +1,10 @@
-mx-docs (20230609mx23+nmu1) UNRELEASED; urgency=medium
+mx-docs (20230614mx23) mx; urgency=medium
 
   * Non-maintainer upload.
   * added CA translation of FAQs
+  * Updated Manual with revised S1-S3
 
- -- Jerry <jb@mx>  Sat, 10 Jun 2023 06:33:31 -0400
+ -- Jerry <jb@mx>  Wed, 14 Jun 2023 17:30:17 -0400
 
 mx-docs (20230609mx23) mx; urgency=medium
 
