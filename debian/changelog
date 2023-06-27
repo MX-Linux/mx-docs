@@ -1,9 +1,10 @@
-mx-docs (20230614mx25) UNRELEASED; urgency=medium
+mx-docs (20230614mx26) UNRELEASED; urgency=medium
 
   * uploaded S1-S4 to folder mx23
   * uploaded S5 to same location
+  * uploaded S6
 
- -- Jerry <jb@mx>  Sun, 25 Jun 2023 16:43:43 -0400
+ -- Jerry <jb@mx>  Tue, 27 Jun 2023 16:01:38 -0400
 
 mx-docs (20230614mx23) mx; urgency=medium
 
