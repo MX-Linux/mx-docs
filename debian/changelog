@@ -1,11 +1,15 @@
-mx-docs (20230614mx27) UNRELEASED; urgency=medium
+mx-docs (20230630mx23) mx; urgency=medium
 
+  [ Jerry ]
   * uploaded S1-S4 to folder mx23
   * uploaded S5 to same location
   * uploaded S6
   * uploaded S7
 
- -- Jerry <jb@mx>  Wed, 28 Jun 2023 10:46:41 -0400
+  [ Dolphin Oracle ]
+  * new build
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 30 Jun 2023 00:38:19 -0400
 
 mx-docs (20230614mx23) mx; urgency=medium
 
