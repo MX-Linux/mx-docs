@@ -1,3 +1,11 @@
+mx-docs (20230701) mx; urgency=medium
+
+  * Non-maintainer upload.
+  * removed individual sections, uploaded completed mxum.odt for mx-23
+  * uploaded 10 translations + mxum_en.pdf
+
+ -- Jerry <jb@mx>  Fri, 30 Jun 2023 07:31:07 -0400
+
 mx-docs (20230630mx23) mx; urgency=medium
 
   [ Jerry ]
