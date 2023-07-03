@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Wallon Wallon, 2023
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-09 23:36-0500\n"
+"PO-Revision-Date: 2022-12-10 04:38+0000\n"
+"Last-Translator: Wallon Wallon, 2023\n"
+"Language-Team: French (Belgium) (https://app.transifex.com/anticapitalista/teams/10162/fr_BE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_BE\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#. The desktop entry name will be displayed within the menu.
+#: desktop-in/FAQ.desktop.in:6 desktop-in/FAQ.desktop.in:10
+msgid "FAQ"
+msgstr "FAQ"
+
+#. # The desktop entry comment will be shown within the menu.
+#: desktop-in/FAQ.desktop.in:12
+msgid "Frequently Asked Questions"
+msgstr "Foire aux questions"
+
+#. The desktop entry name will be displayed within the menu.
+#: desktop-in/Help.desktop.in:6 desktop-in/Help.desktop.in:10
+msgid "MX User Manual"
+msgstr "MX Manuel d’utilisation"
+
+#. # The desktop entry comment will be shown within the menu.
+#: desktop-in/Help.desktop.in:12 desktop-in/manual.desktop.in:12
+msgid "Orientation and information"
+msgstr "Guide et informations"
+
+#. The desktop entry name will be displayed within the menu.
+#: desktop-in/manual.desktop.in:6 desktop-in/manual.desktop.in:10
+msgid "Manual"
+msgstr "Manuel"

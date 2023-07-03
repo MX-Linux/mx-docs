@@ -1,36 +1,43 @@
-# Italian translations for PACKAGE package.
-# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2022.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Dolphin Oracle <dolphinoracle@gmail.com>, 2022
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2022
+# Guybrush88 <erpizzo@alice.it>, 2022
+# Dede Carli <dede.carli.drums@gmail.com>, 2022
+# 
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-09 23:36-0500\n"
-"PO-Revision-Date: 2022-12-09 23:36-0500\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: it\n"
+"PO-Revision-Date: 2022-12-10 04:38+0000\n"
+"Last-Translator: Dede Carli <dede.carli.drums@gmail.com>, 2022\n"
+"Language-Team: Italian (https://app.transifex.com/anticapitalista/teams/10162/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #. The desktop entry name will be displayed within the menu.
 #: desktop-in/FAQ.desktop.in:6 desktop-in/FAQ.desktop.in:10
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #. # The desktop entry comment will be shown within the menu.
 #: desktop-in/FAQ.desktop.in:12
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Domande frequenti"
 
 #. The desktop entry name will be displayed within the menu.
 #: desktop-in/Help.desktop.in:6 desktop-in/Help.desktop.in:10
 msgid "MX User Manual"
-msgstr ""
+msgstr "Manuale utenti MX"
 
 #. # The desktop entry comment will be shown within the menu.
 #: desktop-in/Help.desktop.in:12 desktop-in/manual.desktop.in:12
@@ -40,4 +47,4 @@ msgstr "Orientamento e informazione"
 #. The desktop entry name will be displayed within the menu.
 #: desktop-in/manual.desktop.in:6 desktop-in/manual.desktop.in:10
 msgid "Manual"
-msgstr ""
+msgstr "Manuale"

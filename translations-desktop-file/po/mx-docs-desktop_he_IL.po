@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2023
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-09 23:36-0500\n"
+"PO-Revision-Date: 2022-12-10 04:38+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>, 2023\n"
+"Language-Team: Hebrew (Israel) (https://app.transifex.com/anticapitalista/teams/10162/he_IL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
+
+#. The desktop entry name will be displayed within the menu.
+#: desktop-in/FAQ.desktop.in:6 desktop-in/FAQ.desktop.in:10
+msgid "FAQ"
+msgstr "שו״ת"
+
+#. # The desktop entry comment will be shown within the menu.
+#: desktop-in/FAQ.desktop.in:12
+msgid "Frequently Asked Questions"
+msgstr "תשובות לשאלות נפוצות"
+
+#. The desktop entry name will be displayed within the menu.
+#: desktop-in/Help.desktop.in:6 desktop-in/Help.desktop.in:10
+msgid "MX User Manual"
+msgstr "מדריך למשתמש ב־MX"
+
+#. # The desktop entry comment will be shown within the menu.
+#: desktop-in/Help.desktop.in:12 desktop-in/manual.desktop.in:12
+msgid "Orientation and information"
+msgstr "הכוונה ומידע"
+
+#. The desktop entry name will be displayed within the menu.
+#: desktop-in/manual.desktop.in:6 desktop-in/manual.desktop.in:10
+msgid "Manual"
+msgstr "ידני"
