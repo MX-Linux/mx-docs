@@ -1,0 +1,16 @@
+#!/bin/sh
+
+FILE="/usr/local/share/doc/FAQ"
+lang_check=$(echo $LANG|cut -d_ -f1)
+echo $lang_check
+FILE2=$FILE"_"$lang_check".pdf"
+
+echo $FILE2
+
+if [ -e $FILE2 ]; then
+    FILE=$FILE2
+else
+    FILE=$FILE".pdf"
+fi
+
+xdg-open $FILE 
