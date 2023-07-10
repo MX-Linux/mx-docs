@@ -1,3 +1,11 @@
+mx-docs (20230701+1+nmu1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Update reformated mxum pdfs
+  * uploaded odt source
+
+ -- Jerry <jb@mx>  Mon, 10 Jul 2023 10:17:08 -0400
+
 mx-docs (20230701+1) mx; urgency=medium
 
   * update desktop file translations 
