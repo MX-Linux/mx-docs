@@ -1,3 +1,9 @@
+mx-docs (20230711) mx; urgency=medium
+
+  * update mx-manual script for changed manual file name
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 15 Jul 2023 08:55:11 -0400
+
 mx-docs (20230710) mx; urgency=medium
 
   * Update reformated mxum pdfs

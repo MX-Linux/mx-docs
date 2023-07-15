@@ -10,7 +10,7 @@ echo $FILE2
 if [ -e $FILE2 ]; then
     FILE=$FILE2
 else
-    FILE=$FILE".pdf"
+    FILE=$FILE"_en.pdf"
 fi
 
 xdg-open $FILE 
