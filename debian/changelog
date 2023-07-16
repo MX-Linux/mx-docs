@@ -1,3 +1,9 @@
+mx-docs (20230712) mx; urgency=medium
+
+  * update desktop file icons
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 16 Jul 2023 08:57:05 -0400
+
 mx-docs (20230711) mx; urgency=medium
 
   * update mx-manual script for changed manual file name
