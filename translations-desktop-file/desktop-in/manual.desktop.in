@@ -3,7 +3,7 @@ Categories=System;
 Exec=mx-manual
 GenericName[en_US]=Manual
 GenericName=Manual
-Icon=help-browser.png
+Icon=help-browser
 MimeType=
 # The desktop entry name will be displayed within the menu.
 Name=Manual
