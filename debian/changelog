@@ -1,3 +1,11 @@
+mx-docs (20230712+nmu1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * changed desktop icons to full icon location
+  * substituted reworked ja mxum
+
+ -- Jerry <jb@mx>  Fri, 28 Jul 2023 06:24:57 -0400
+
 mx-docs (20230712) mx; urgency=medium
 
   * update desktop file icons
