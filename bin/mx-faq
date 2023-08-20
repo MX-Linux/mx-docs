@@ -1,16 +1,25 @@
 #!/bin/sh
 
 FILE="/usr/local/share/doc/FAQ"
-lang_check=$(echo $LANG|cut -d_ -f1)
+lang_check=$(echo $LANG|cut -d. -f1)
 echo $lang_check
 FILE2=$FILE"_"$lang_check".pdf"
 
 echo $FILE2
 
+#check for XX_YY lang file
 if [ -e $FILE2 ]; then
     FILE=$FILE2
 else
-    FILE=$FILE".pdf"
+	##check for truncated lang file
+	lang_check=$(echo $LANG|cut -d_ -f1)
+    FILE2=$FILE"_"$lang_check".pdf"
+	if [ -e $FILE2 ]; then
+		FILE=$FILE2
+	else
+	#display english version if no file found
+    	FILE=$FILE".pdf"
+    fi
 fi
 
 xdg-open $FILE 

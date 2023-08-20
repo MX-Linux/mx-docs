@@ -1,3 +1,10 @@
+mx-docs (20230728+1) mx; urgency=medium
+
+  * update translations for files (jerry)
+  * update scripts to launch the correct XX_YY lang file if it exists
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 19 Aug 2023 23:21:02 -0400
+
 mx-docs (20230728) mx; urgency=medium
 
   [ Jerry ]
