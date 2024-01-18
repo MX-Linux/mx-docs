@@ -1,6 +1,5 @@
-mx-docs (20240109+nmu1) UNRELEASED; urgency=medium
+mx-docs (20240117) mx; urgency=medium
 
-  * Non-maintainer upload.
   * updated MX-Tools
   * updated Installer > Swap screen and comments
   * rewrote Firewall and Samba sections
