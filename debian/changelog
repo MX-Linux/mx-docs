@@ -1,3 +1,16 @@
+mx-docs (20240408) mx; urgency=medium
+
+  * updated images 
+  * added new Tools
+  * reviewed and updated text
+  * added various small additions and corrections
+  * added cursor size to Accessibility
+  * updated PDFs of mxum
+  * created new experimental ar version of mxum (partial)
+  * created experimental ar translation of FAQ
+
+ -- Dolphin Oracle <mxdevs@mx>  Fri, 05 Apr 2024 12:20:18 -0400
+
 mx-docs (20240117) mx; urgency=medium
 
   * updated MX-Tools
