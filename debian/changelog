@@ -1,3 +1,10 @@
+mx-docs (20240410) UNRELEASED; urgency=medium
+
+  * Reformatted and revised Japanese version
+  * Detailed changelog: https://forum.mxlinux.org/viewtopic.php?t=80375
+
+ -- Dolphin Oracle <mxdevs@mx>  Sun, 05 May 2024 14:02:19 -0400
+
 mx-docs (20240409) mx; urgency=medium
 
   * replaced en pdf with correct version
