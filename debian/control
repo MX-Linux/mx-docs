@@ -8,7 +8,7 @@ Homepage: http://antix.mepis.org
 
 Package: mx-docs
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Depends: mx-docs-common, mx-docs-ar, mx-docs-de, mx-docs-el, mx-docs-en, mx-docs-es, mx-docs-fr, mx-docs-hu, mx-docs-id, mx-docs-it, mx-docs-ja, mx-docs-nb, mx-docs-nl, mx-docs-pl, mx-docs-pt, mx-docs-ru, mx-docs-tr, mx-docs-zh, mx-faq-common,mx-faq-ar, mx-faq-bg, mx-faq-ca, mx-faq-cs, mx-faq-da, mx-faq-de, mx-faq-el, mx-faq-en, mx-faq-es, mx-faq-fr, mx-faq-hu, mx-faq-id, mx-faq-it, mx-faq-ja, mx-faq-nb, mx-faq-nl, mx-faq-pl, mx-faq-pt, mx-faq-ru, mx-faq-sv, mx-faq-tr, mx-faq-zh
@@ -17,7 +17,7 @@ Description: user manual for MX
  
 Package: mx-docs-common
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Depends: mxumfaq
@@ -26,7 +26,7 @@ Description: user manual for MX
  
 Package: mx-faq-common
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Depends: mxumfaq
@@ -35,7 +35,7 @@ Description: user FAQ for MX
 
 Package: mx-faq-ar
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -44,7 +44,7 @@ Description: user FAQ for MX
 
 Package: mx-faq-bg
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -53,7 +53,7 @@ Description: user FAQ for MX
 
 Package: mx-faq-ca
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -62,7 +62,7 @@ Description: user FAQ for MX
 
 Package: mx-faq-cs
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -71,7 +71,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-da
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -80,7 +80,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-de
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -89,7 +89,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-el
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -98,7 +98,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-en
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -107,7 +107,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-es
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -116,7 +116,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-fr
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -125,7 +125,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-hu
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -134,7 +134,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-id
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -143,7 +143,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-it
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -152,7 +152,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-ja
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -161,7 +161,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-nb
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -170,7 +170,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-nl
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -179,7 +179,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-pl
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -188,7 +188,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-pt
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -197,7 +197,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-ru
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -206,7 +206,7 @@ Description: user FAQ for MX
 
 Package: mx-faq-sv
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -215,7 +215,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-tr
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -224,7 +224,7 @@ Description: user FAQ for MX
  
 Package: mx-faq-zh
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxumfaq
@@ -233,7 +233,7 @@ Description: user FAQ for MX
 
 Package: mx-docs-ar
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -242,7 +242,7 @@ Description: user manual for MX
  
 Package: mx-docs-de
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -251,7 +251,7 @@ Description: user manual for MX
  
 Package: mx-docs-el
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -260,7 +260,7 @@ Description: user manual for MX
  
 Package: mx-docs-en
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -269,7 +269,7 @@ Description: user manual for MX
  
 Package: mx-docs-es
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -278,7 +278,7 @@ Description: user manual for MX
  
 Package: mx-docs-fr
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -287,7 +287,7 @@ Description: user manual for MX
  
 Package: mx-docs-hu
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -296,7 +296,7 @@ Description: user manual for MX
  
 Package: mx-docs-id
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -305,7 +305,7 @@ Description: user manual for MX
  
 Package: mx-docs-it
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -314,7 +314,7 @@ Description: user manual for MX
  
 Package: mx-docs-ja
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -323,7 +323,7 @@ Description: user manual for MX
  
 Package: mx-docs-nb
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -332,7 +332,7 @@ Description: user manual for MX
  
 Package: mx-docs-nl
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -341,7 +341,7 @@ Description: user manual for MX
  
 Package: mx-docs-pl
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -350,7 +350,7 @@ Description: user manual for MX
  
 Package: mx-docs-pt
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -359,7 +359,7 @@ Description: user manual for MX
  
 Package: mx-docs-ru
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -368,7 +368,7 @@ Description: user manual for MX
  
 Package: mx-docs-tr
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
@@ -377,7 +377,7 @@ Description: user manual for MX
  
 Package: mx-docs-zh
 Section: doc
-Conflicts:  mx-docs (<<20240410)
+Conflicts:  mx-docs (<20240411)
 Replaces:  mx-docs
 Architecture: all
 Provides: mxum
