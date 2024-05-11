@@ -8,8 +8,378 @@ Homepage: http://antix.mepis.org
 
 Package: mx-docs
 Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
 Architecture: all
-Conflicts: docs-mx, desktop-defaults-xfce-mx, mx-desktop-defaults
-Replaces: docs-mx 
+Depends: mx-docs-common, mx-docs-ar, mx-docs-de, mx-docs-el, mx-docs-en, mx-docs-es, mx-docs-fr, mx-docs-hu, mx-docs-id, mx-docs-it, mx-docs-ja, mx-docs-nb, mx-docs-nl, mx-docs-pl, mx-docs-pt, mx-docs-ru, mx-docs-tr, mx-docs-zh, mx-faq-common,mx-faq-ar, mx-faq-bg, mx-faq-ca, mx-faq-cs, mx-faq-da, mx-faq-de, mx-faq-el, mx-faq-en, mx-faq-es, mx-faq-fr, mx-faq-hu, mx-faq-id, mx-faq-it, mx-faq-ja, mx-faq-nb, mx-faq-nl, mx-faq-pl, mx-faq-pt, mx-faq-ru, mx-faq-sv, mx-faq-tr, mx-faq-zh
+Description: user manual for MX
+	this is a metapackage for MX Manual and FAQ that pulls in all available languages
+ 
+Package: mx-docs-common
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Depends: mxumfaq
 Description: user manual for MX 
- This is the PDF user manual included with MX 
+ This is desktop launcher files for the MX Manual
+ 
+Package: mx-faq-common
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Depends: mxumfaq
+Description: user FAQ for MX 
+ This is desktop launcher files for the MX FAQ
+
+Package: mx-faq-ar
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in arabic
+
+Package: mx-faq-bg
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in bulgarian
+
+Package: mx-faq-ca
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in catalan
+
+Package: mx-faq-cs
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in czech
+ 
+Package: mx-faq-da
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in danish
+ 
+Package: mx-faq-de
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in german
+ 
+Package: mx-faq-el
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in greek
+ 
+Package: mx-faq-en
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in english
+ 
+Package: mx-faq-es
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in spanish
+ 
+Package: mx-faq-fr
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in french
+ 
+Package: mx-faq-hu
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in hungarian
+ 
+Package: mx-faq-id
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in indonesian
+ 
+Package: mx-faq-it
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in italian
+ 
+Package: mx-faq-ja
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in japanese
+ 
+Package: mx-faq-nb
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in norwegian
+ 
+Package: mx-faq-nl
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in dutch
+ 
+Package: mx-faq-pl
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in polish
+ 
+Package: mx-faq-pt
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in portugese
+ 
+Package: mx-faq-ru
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in russian
+
+Package: mx-faq-sv
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in swedish
+ 
+Package: mx-faq-tr
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in turkish
+ 
+Package: mx-faq-zh
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX 
+ MX FAQ in chinese
+
+Package: mx-docs-ar
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in arabic
+ 
+Package: mx-docs-de
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in german
+ 
+Package: mx-docs-el
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in greek
+ 
+Package: mx-docs-en
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in english
+ 
+Package: mx-docs-es
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in spanish
+ 
+Package: mx-docs-fr
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in french
+ 
+Package: mx-docs-hu
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in hungarian
+ 
+Package: mx-docs-id
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in indonesian
+ 
+Package: mx-docs-it
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in italian
+ 
+Package: mx-docs-ja
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in japanese
+ 
+Package: mx-docs-nb
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in norwegian
+ 
+Package: mx-docs-nl
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in dutch
+ 
+Package: mx-docs-pl
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in polish
+ 
+Package: mx-docs-pt
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in portugese
+ 
+Package: mx-docs-ru
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in russian
+ 
+Package: mx-docs-tr
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in turkish
+ 
+Package: mx-docs-zh
+Section: doc
+Conflicts:  mx-docs (<<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX 
+ MX Manual in chinese

@@ -1,3 +1,10 @@
+mx-docs (20240411) mx; urgency=medium
+
+  * divide up mx-docs into language specific packages
+  * allows for removal of any or all languages
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 10 May 2024 22:27:17 -0400
+
 mx-docs (20240410) mx; urgency=medium
 
   * Reformatted and revised Japanese version
