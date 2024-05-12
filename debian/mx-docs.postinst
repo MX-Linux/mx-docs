@@ -1,0 +1,7 @@
+#!/bin/sh -e
+
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remove" ] ; then
+    apt-mark manual mx-docs-common  mx-docs-ar  mx-docs-de  mx-docs-el  mx-docs-en  mx-docs-es  mx-docs-fr  mx-docs-hu  mx-docs-id  mx-docs-it  mx-docs-ja  mx-docs-nb  mx-docs-nl  mx-docs-pl  mx-docs-pt  mx-docs-ru  mx-docs-tr  mx-docs-zh  mx-faq-common mx-faq-ar  mx-faq-bg  mx-faq-ca  mx-faq-cs  mx-faq-da  mx-faq-de  mx-faq-el  mx-faq-en  mx-faq-es  mx-faq-fr  mx-faq-hu  mx-faq-id  mx-faq-it  mx-faq-ja  mx-faq-nb  mx-faq-nl  mx-faq-pl  mx-faq-pt  mx-faq-ru  mx-faq-sv  mx-faq-tr  mx-faq-zh
+fi
+
+#DEBHELPER#
