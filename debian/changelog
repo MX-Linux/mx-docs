@@ -1,8 +1,9 @@
-mx-docs (20240410+1) mx; urgency=medium
+mx-docs (20240411) mx; urgency=medium
 
-  * move from usr/local
+  * divide up mx-docs into language specific packages
+  * allows for removal of any or all languages
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 05 May 2024 14:02:19 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 10 May 2024 22:27:17 -0400
 
 mx-docs (20240410) mx; urgency=medium
 
