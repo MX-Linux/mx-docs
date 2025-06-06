@@ -1,6 +1,6 @@
-*.pdf                      usr/local/share/doc 
-FAQ/*.pdf				usr/local/share/doc
-FAQ/tr/*.pdf			usr/local/share/doc
+*.pdf                      usr/share/mx-docs 
+FAQ/*.pdf				usr/share/mx-docs
+FAQ/tr/*.pdf			usr/share/mx-docs
 Help.desktop		   usr/share/applications
 bin/*		   usr/bin
 FAQ.desktop			usr/share/applications
