@@ -1,3 +1,9 @@
+mx-docs (20240410+1) mx; urgency=medium
+
+  * move from usr/local
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 05 May 2024 14:02:19 -0400
+
 mx-docs (20240410) mx; urgency=medium
 
   * Reformatted and revised Japanese version
