@@ -1,6 +1,6 @@
 mx-docs (20240411+1) mx; urgency=medium
 
-  * move docs to usr/local/mx-docs
+  * move docs to usr/share/mx-docs
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 06 Jun 2025 20:23:43 -0400
 
