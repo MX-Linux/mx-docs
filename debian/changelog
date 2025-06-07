@@ -1,3 +1,9 @@
+mx-docs (20240411+1) mx; urgency=medium
+
+  * move docs to usr/local/mx-docs
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 06 Jun 2025 20:23:43 -0400
+
 mx-docs (20240411) mx; urgency=medium
 
   * divide up mx-docs into language specific packages
