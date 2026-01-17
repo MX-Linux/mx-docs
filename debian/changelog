@@ -1,3 +1,11 @@
+mx-docs (20260106mx25) mx; urgency=medium
+
+  * update manual for mx25.1 dual init
+  * installer section changes
+  * misc. refinements 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 17 Jan 2026 13:57:29 -0500
+
 mx-docs (202511009mx25) mx; urgency=medium
 
   * update  FAQ language for mx25
