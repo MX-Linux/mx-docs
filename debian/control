@@ -59,6 +59,15 @@ Architecture: all
 Provides: mxumfaq
 Description: user FAQ for MX 
  MX FAQ in czech
+
+Package: mx-faq-cs
+Section: doc
+Conflicts:  mx-docs (<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxumfaq
+Description: user FAQ for MX
+ MX FAQ in catalan
  
 Package: mx-faq-da
 Section: doc
@@ -257,6 +266,15 @@ Architecture: all
 Provides: mxum
 Description: user manual for MX 
  MX Manual in bugarian
+
+Package: mx-docs-ca
+Section: doc
+Conflicts:  mx-docs (<20240410)
+Replaces:  mx-docs
+Architecture: all
+Provides: mxum
+Description: user manual for MX
+ MX Manual in catalan
 
 Package: mx-docs-cs
 Section: doc
