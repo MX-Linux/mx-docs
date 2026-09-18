@@ -60,7 +60,7 @@ Provides: mxumfaq
 Description: user FAQ for MX 
  MX FAQ in czech
 
-Package: mx-faq-cs
+Package: mx-faq-ca
 Section: doc
 Conflicts:  mx-docs (<20240410)
 Replaces:  mx-docs
